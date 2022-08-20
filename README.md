@@ -6,7 +6,7 @@
 __Right now:__ 
 
 * `Project`: Using React and TypeScript
-* `code mentoring`: Hosting monthly global webinars on Web Development and problem solving skills. (Mostly HTML & CSS) 
+* `Code Mentoring`: Hosting monthly global webinars on Web Development and problem solving skills. (Mostly HTML & CSS) 
 
 
 __Focusing on:__ 
