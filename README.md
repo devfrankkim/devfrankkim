@@ -16,6 +16,9 @@ __Focusing on:__
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=Plastic&logo=TypeScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=Plastic&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=Plastic&logo=CSS3&logoColor=white"/>
+![Figma](https://img.shields.io/static/v1?style=Plastic&message=Figma&color=purple&logo=Figma&logoColor=FFFFFF&label=)
+
+
 
 
 ---
